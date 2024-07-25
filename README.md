@@ -42,8 +42,7 @@ I strongly believe that every challenge has a solution. That's why I'm always re
 
 | Courses                                                         | Data              |
 | ----------------------------------------------------------------| :---------------: |
-| https://goit.global/ua/ : HTML/CSS                              | 11/2021 - 02/2022 |
-| https://beetrootacademy.com/                                    | 02/2022 - 06/2022 |
+| https://beetrootacademy.com/                                    | 05/2021 - 11/2021 |
 | https://www.codecademy.com/learn                                | 12/2022 - x/2024  |
 | https://www.coursera.org/                                       | 02/2023 - x/2024 |
 
