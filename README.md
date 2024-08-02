@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Olena. Friends call me Elena or just Lena.
+### Hi there 👋, my name is Olena. Friends call me Elena.
 
 ---
 
